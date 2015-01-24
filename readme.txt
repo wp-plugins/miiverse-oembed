@@ -11,6 +11,16 @@ Registers Nintendo Miiverse as an oEmbed in WordPress.
 
 To use simply paste a URL from a Miiverse post into a blog post.
 
+== Example ==
+
+On a new line post a Miiverse URL like so:
+
+https://miiverse.nintendo.net/posts/AYMHAAACAADMUKldElgb0A
+
 == Changelog ==
 
 1.0 - First version.
+
+== Screenshots ==
+
+1. A Miiverse embed in action.
